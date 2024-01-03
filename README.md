@@ -1,1 +1,1 @@
-Base de code pour le cours HTML CSS
+Kodebasis für HTML5- und CSS3-Kurs
